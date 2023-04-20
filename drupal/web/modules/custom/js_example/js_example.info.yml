@@ -1,0 +1,7 @@
+name: JavaScript Example
+description: Demonstrates JavaScript features.
+type: module
+package: 'Example modules'
+core_version_requirement: ^9.4 || ^10
+dependencies:
+  - drupal:node

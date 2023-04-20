@@ -1,0 +1,5 @@
+name: Rest Resource Demo
+type: module
+description: y
+package: Custom
+core_version_requirement: ^9 || ^10
