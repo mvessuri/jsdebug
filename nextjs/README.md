@@ -10,15 +10,21 @@ See http://next-example-blog.vercel.app
 ## Getting Started
 
 Change to the Next.js directory
-$ cd nextjs
+```
+cd nextjs
+```
 
 install dependencies
 
-$ yarn install
+```
+yarn install
+```
 
 To see the example app
 
-$ yarn dev
+```
+yarn dev
+```
 
 Now you can go to localhost:3000 and see your app!
 
