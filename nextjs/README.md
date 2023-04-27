@@ -26,7 +26,7 @@ To see the example app
 yarn dev
 ```
 
-Now you can go to localhost:3000 and see your app!
+Now you can go to localhost:3030 and see your app!
 
 ## License
 
